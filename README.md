@@ -1,3 +1,5 @@
+This project was developed as part of the course requirements for ECE 5040, EM Simulation, offered in Spring 2026 at the University of Idaho
+
 # ECE5040_Project_1
 Project 1's goal is to implement the Finite-Difference Time-Domain (FDTD) method using a specific grid convention:
 The Electric Field (E_z) is located at the center of the Yee cell, while the Magnetic Field (H_y) is located at the cell edges.
